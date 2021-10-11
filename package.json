@@ -1,0 +1,14 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "@byted-creative/camera": "0.0.17",
+    "@byted-creative/camera-cocos-layer": "0.0.17",
+    "@byted-creative/camera-face": "0.0.17",
+    "eventemitter3": {
+      "integrity": "sha512-QR0rh0YiPuxuDQ6+T9GAO/xWTExXpxIes1Nl9RykNGTnE1HJmkuEfxJH9cubjIOQZ/GH4qNBR4u8VSHaKiWs4g==",
+      "resolved": "https://registry.npmjs.org/eventemitter3/-/eventemitter3-4.0.5.tgz",
+      "version": "4.0.5"
+    }
+  }
+}
